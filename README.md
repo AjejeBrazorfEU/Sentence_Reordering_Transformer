@@ -6,7 +6,9 @@ This repo contains my project submission for the exam of Deep Learning in the AI
 
 In this project I implemented a Transformer model for the task of Sentence Reordering. I followed the [Tensorflow implementation](https://www.tensorflow.org/text/tutorials/transformer) of the Transformer model, that follows the original paper ["Attention Is All You Need"](https://arxiv.org/pdf/1706.03762).
 
-![Transformer architecture](https://www.researchgate.net/publication/344310523/figure/fig1/AS:11431281098991710@1669171990308/Transformer-architecture-figure-sourced-from-original-paper-26.png)
+<picture>
+  <img alt="Transformer architecture" src="https://www.researchgate.net/publication/344310523/figure/fig1/AS:11431281098991710@1669171990308/Transformer-architecture-figure-sourced-from-original-paper-26.png">
+</picture>
 
 The Transformer model is a deep learning model that is based on self-attention mechanism. It is particularly useful for sequence-to-sequence tasks, such as translation, summarization, and sentence reordering.
 
